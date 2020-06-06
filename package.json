@@ -16,9 +16,7 @@
     "simple-peer": "^9.7.2",
     "socket.io": "^2.3.0"
   },
-  {
-	"engines":{
-		"node" : ">=0.12"
-	}
+  "engines":{
+	"node" : ">=0.12"
   }
 }
